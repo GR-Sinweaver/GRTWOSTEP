@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GRTWOSTEP
-- 👀 I’m interested in cars / Dev
+- 👀 I’m interested in cars / dev
 - 🌱 I’m currently learning C#
 
 <!---
