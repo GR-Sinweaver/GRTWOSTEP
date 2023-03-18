@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GRTWOSTEP
+- 👋 Hi, I’m @Silently
 - 👀 I’m interested in cars / dev
-- 🌱 I’m currently learning C#
+- 🌱 I’m C# DEV
 
 <!---
-GRTWOSTEP/GRTWOSTEP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Silently/Silently is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
